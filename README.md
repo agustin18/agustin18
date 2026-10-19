@@ -10,7 +10,7 @@ Focusing on concurrency primitives, API architecture, and high-reliability Pytho
 
 - **[fastapi-stream-lease](https://github.com/agustin18/fastapi-stream-lease)**  
   Distributed concurrency and lease manager for SSE, LLM token streams, and WebSockets in FastAPI backed by Redis Lua CAS ($O(\log N)$).  
-  *Featured in [Python Weekly #688](https://www.pythonweekly.com/archive/688.html).*  
+  *Featured in [Python Weekly #767](https://www.pythonweekly.com/p/python-weekly-issue-767-october-15-2026).*  
   [![PyPI](https://img.shields.io/pypi/v/fastapi-stream-lease?color=blue)](https://pypi.org/project/fastapi-stream-lease/)
   [![CI](https://github.com/agustin18/fastapi-stream-lease/actions/workflows/ci.yml/badge.svg)](https://github.com/agustin18/fastapi-stream-lease/actions)
   [![Coverage](https://img.shields.io/badge/coverage-100%25-brightgreen)](https://github.com/agustin18/fastapi-stream-lease)
@@ -25,7 +25,7 @@ Focusing on concurrency primitives, API architecture, and high-reliability Pytho
 
 ### Open Source Contributions
 
-Beyond primary projects, occasional contributor with merged fixes and optimizations across Python and systems tooling (including `fpdf2`, `pylint`, `litellm`, and `fastify`).
+Beyond primary projects, occasional contributor with merged fixes and optimizations across Python and systems tooling (including `fpdf2`, `pylint`, `litellm`, `multidict`, and `fastify`).
 
 ---
 

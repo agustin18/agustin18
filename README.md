@@ -6,7 +6,7 @@ Focusing on concurrency primitives, API architecture, and high-reliability Pytho
 
 ---
 
-### Maintained Projects
+### Open Source Projects
 
 - **[fastapi-stream-lease](https://github.com/agustin18/fastapi-stream-lease)**  
   Distributed concurrency and lease manager for SSE, LLM token streams, and WebSockets in FastAPI backed by Redis Lua CAS ($O(\log N)$).  
@@ -15,11 +15,8 @@ Focusing on concurrency primitives, API architecture, and high-reliability Pytho
   [![CI](https://github.com/agustin18/fastapi-stream-lease/actions/workflows/ci.yml/badge.svg)](https://github.com/agustin18/fastapi-stream-lease/actions)
   [![Coverage](https://img.shields.io/badge/coverage-100%25-brightgreen)](https://github.com/agustin18/fastapi-stream-lease)
 
-- **[didit-sdk](https://github.com/agustin18/didit-sdk)**  
-  Independent, fully-typed Python client for the Didit Identity Verification & KYC API. Implements RFC 8785 Canonical JSON, constant-time HMAC-SHA256 signature verification, and Pydantic V2 models.  
-  [![PyPI](https://img.shields.io/pypi/v/didit-sdk?color=blue)](https://pypi.org/project/didit-sdk/)
-  [![CI](https://github.com/agustin18/didit-sdk/actions/workflows/ci.yml/badge.svg)](https://github.com/agustin18/didit-sdk/actions)
-  [![Coverage](https://img.shields.io/badge/coverage-100%25-brightgreen)](https://github.com/agustin18/didit-sdk)
+- **[didit-sdk 0.x](https://github.com/agustin18/didit-sdk)**
+  Original community SDK for Didit KYC (0.1.0-0.4.0). The official SDK is now maintained by Didit: [didit-protocol/sdk-python](https://github.com/didit-protocol/sdk-python).
 
 ---
 

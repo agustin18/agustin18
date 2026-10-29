@@ -15,8 +15,12 @@ Focusing on concurrency primitives, API architecture, and high-reliability Pytho
   [![CI](https://github.com/agustin18/fastapi-stream-lease/actions/workflows/ci.yml/badge.svg)](https://github.com/agustin18/fastapi-stream-lease/actions)
   [![Coverage](https://img.shields.io/badge/coverage-100%25-brightgreen)](https://github.com/agustin18/fastapi-stream-lease)
 
-- **[didit-sdk 0.x](https://github.com/agustin18/didit-sdk)**
-  Original community SDK for Didit KYC (0.1.0-0.4.0). The official SDK is now maintained by Didit: [didit-protocol/sdk-python](https://github.com/didit-protocol/sdk-python).
+- **[didit-sdk 0.x](https://github.com/agustin18/didit-sdk)**  
+  Original community SDK for Didit KYC (0.1.0-0.4.0).  
+  The official SDK is now maintained by Didit: [didit-protocol/sdk-python](https://github.com/didit-protocol/sdk-python).  
+  [![Historical](https://img.shields.io/badge/status-historical-lightgrey)](https://github.com/agustin18/didit-sdk)
+  [![PyPI 0.4.0](https://img.shields.io/badge/PyPI-0.4.0-lightgrey)](https://pypi.org/project/didit-sdk/0.4.0/)
+  [![Official SDK](https://img.shields.io/badge/official%20SDK-didit--protocol%2Fsdk--python-blue)](https://github.com/didit-protocol/sdk-python)
 
 ---
 
